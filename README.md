@@ -1,2 +1,2 @@
-# TerpineAnalysis
-This is a group project that I did in Fall 2020 for COMP 379: Machine Learning. We used scraped data from terpine compositions of different marijuana strains, and matched them to reviews on Allbud that included subjective data on aroma, flavor, and affect. We then tried using different machine learning models to try and classify the aroma of different strains based on their terpine content.
+# TerpeneAnalysis
+This is a group project that I did in Fall 2020 for COMP 379: Machine Learning. We used scraped data from terprne compositions of different marijuana strains, and matched them to reviews on Allbud that included subjective data on aroma, flavor, and affect. We then tried using different machine learning models to try and classify the aroma of different strains based on their terpene content.
